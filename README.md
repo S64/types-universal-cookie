@@ -1,0 +1,1 @@
+# types-universal-cookie
