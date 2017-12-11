@@ -1,7 +1,6 @@
 {
   "name": "@types/universal-cookie",
   "version": "2.1.2-1",
-  "private": true,
   "main": "index.d.ts",
   "repository": {
     "type": "git",
