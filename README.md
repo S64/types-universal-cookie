@@ -10,7 +10,7 @@ TypeScript definitions for [`universal-cookie`](https://github.com/reactivestack
     "universal-cookie": "^2.1.2"
   },
   "devDependencies": {
-    "@types/react-cookie": "git+ssh://git@github.com:S64/types-universal-cookie.git#v2.1.2-1"
+    "@types/universal-cookie": "git+ssh://git@github.com:S64/types-universal-cookie.git#v2.1.2-1"
   }
 }
 ```
