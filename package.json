@@ -1,0 +1,16 @@
+{
+  "name": "@types/universal-cookie",
+  "version": "0.0.1-SNAPSHOT",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/S64/types-universal-cookie.git"
+  },
+  "bugs": {
+    "url": "https://github.com/S64/types-universal-cookie/issues"
+  },
+  "homepage": "https://github.com/S64/types-universal-cookie#readme",
+  "devDependencies": {
+    "universal-cookie": "^2.1.2"
+  }
+}
