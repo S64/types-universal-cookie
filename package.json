@@ -2,6 +2,7 @@
   "name": "@types/universal-cookie",
   "version": "0.0.1-SNAPSHOT",
   "private": true,
+  "main": "index.d.ts",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/S64/types-universal-cookie.git"
