@@ -4,8 +4,12 @@ export interface CookiesHook {
 }
 
 export interface CookieOptions {
+  path?: string,
   expires?: Date,
   maxAge?: number,
+  domain?: string,
+  secure?: boolean,
+  httpOnly?: boolean,
 }
 
 export interface CookieParseOptions {
